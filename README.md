@@ -4,7 +4,7 @@ GitHub Repository: https://github.com/peter19841115/1151VIS-HW1-415085085-wu-wei
 
 參考這一頁 https://observablehq.com/@d3/donut-chart/2
 
-製作圓餅圖 發現無法直接使用這一頁程式碼
+製作 Donut chart 發現無法直接使用這一頁程式碼
 
 所以請AI幫我改成 VUE 能用的code 
 
